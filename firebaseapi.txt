@@ -1,0 +1,5 @@
+firebase init  //crear proyecto
+
+firebase serve // desplegar proyecto localmente
+
+firebase deploy  //delplegar proyecto en la web
